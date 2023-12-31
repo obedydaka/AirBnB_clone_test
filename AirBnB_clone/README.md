@@ -162,25 +162,6 @@ IMPORTANT: The project was created in UBUNTU 14.04.3 LTS and Python 3.4.3.
 - 🔃 Create a new pull request using. 
 ---
 
-## Team
-
-<a href="https://github.com/mecomonteshbtn">`mecomonteshbtn`</a>
-<a href="https://github.com/Charliemur2">`Charliemur2`</a>
-
-
----
-
-## Support
-
-Feel free to contact us!
-
-- GitHub at <a href="https://github.com/Charliemur2">`Charliemur2`</a>
-- GitHub at <a href="https://github.com/mecomonteshbtn">`mecomonteshbtn`</a>
-- Twitter at <a href="https://twitter.com/charliesoka">`@charliesoka`</a>
-- Twitter at <a href="https://twitter.com/mecomontes">`@mecomontes`</a>
-
----
-
 ## License
 
 Free Source Code
